@@ -53,9 +53,22 @@ I enjoy building projects that solve real-world problems, exploring new technolo
 
 ## 🌍 Connect With Me
 
-- 🐙 **GitHub:** https://github.com/luckybhupelli6
-- 💼 **LinkedIn:** *Add your LinkedIn profile*
-- 📸 **Instagram:** *Add your Instagram profile*
+<p align="left">
+  <a href="https://github.com/luckybhupelli6" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@example.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" />
+  </a>
+</p>
+
+
 
 ---
 
