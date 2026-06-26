@@ -1,4 +1,4 @@
-```markdown
+
 # 🌸 Hey there, I'm Lucky Bhupelli ✨
 
 💻 Turning ideas into meaningful digital experiences with creativity, curiosity, and continuous learning.
@@ -60,4 +60,4 @@ I enjoy building projects that solve real-world problems, exploring new technolo
 ---
 
 ✨ *Always excited to learn, collaborate, and build something amazing together!*
-```
+
