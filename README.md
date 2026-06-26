@@ -1,5 +1,5 @@
 
-# 🌸 Hey there, I'm Lucky Bhupelli ✨
+# 🌸 Hey there, I'm Lakitha Bhupelli ✨
 
 💻 Turning ideas into meaningful digital experiences with creativity, curiosity, and continuous learning.
 
